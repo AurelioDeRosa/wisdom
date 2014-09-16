@@ -78,6 +78,11 @@ Reference: http://code.tutsplus.com/articles/interview-with-jeffrey-way--net-355
 Tags: computer, digital divide, Europe  
 Reference: http://epp.eurostat.ec.europa.eu/statistics_explained/index.php/Information_society_statistics_at_regional_level
 
+> "Premature optimization is the root of all evil."
+— Donald E. Knuth
+
+Tags: performance, development  
+Reference: http://web.archive.org/web/20130731202547/http://pplab.snu.ac.kr/courses/adv_pl05/papers/p261-knuth.pdf
 
 ## Contribute ##
 
