@@ -84,6 +84,12 @@ Reference: http://epp.eurostat.ec.europa.eu/statistics_explained/index.php/Infor
 Tags: performance, development  
 Reference: http://web.archive.org/web/20130731202547/http://pplab.snu.ac.kr/courses/adv_pl05/papers/p261-knuth.pdf
 
+> "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."  
+— Martin Golding
+
+Tags: development  
+Reference: 
+
 ## Contribute ##
 
 Everyone is invited to contribute to [Wisdom](https://github.com/AurelioDeRosa/wisdom) and any contribution to improve this project is highly appreciated. To add a quote, fact, or statistic, create a pull request adhering to [the format specified](#format).
