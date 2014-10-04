@@ -90,6 +90,12 @@ Reference: http://web.archive.org/web/20130731202547/http://pplab.snu.ac.kr/cour
 Tags: development  
 Reference: 
 
+> "A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away."  
+— Antoine de Saint-Exupery
+
+Tags: design  
+Reference: 
+
 ## Contribute ##
 
 Everyone is invited to contribute to [Wisdom](https://github.com/AurelioDeRosa/wisdom) and any contribution to improve this project is highly appreciated. To add a quote, fact, or statistic, create a pull request adhering to [the format specified](#format).
