@@ -96,6 +96,12 @@ Reference:
 Tags: design  
 Reference: 
 
+> "A Bing study found that a 10ms increase in page load time costs the site $250K in revenue annually."  
+— Rob Trace, David Walp
+
+Tags: performance, development  
+Reference: http://blogs.msdn.com/b/ie/archive/2014/10/08/http-2-the-long-awaited-sequel.aspx
+
 ## Contribute ##
 
 Everyone is invited to contribute to [Wisdom](https://github.com/AurelioDeRosa/wisdom) and any contribution to improve this project is highly appreciated. To add a quote, fact, or statistic, create a pull request adhering to [the format specified](#format).
